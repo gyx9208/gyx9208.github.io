@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+一个游戏开发，目前在米哈游工作
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[gyx_contact@163.com](mailto:gyx_contact@163.com)
+
+![dusk at nz]({{ site.baseurl }}/images/dusk.jpg)
